@@ -1,0 +1,5 @@
+c:\users\estevan\documents\visual studio 2013\Projects\WebApp\WebApp\bin\WebApp.dll.config
+c:\users\estevan\documents\visual studio 2013\Projects\WebApp\WebApp\bin\WebApp.dll
+c:\users\estevan\documents\visual studio 2013\Projects\WebApp\WebApp\bin\WebApp.pdb
+c:\users\estevan\documents\visual studio 2013\Projects\WebApp\WebApp\obj\Debug\WebApp.dll
+c:\users\estevan\documents\visual studio 2013\Projects\WebApp\WebApp\obj\Debug\WebApp.pdb
