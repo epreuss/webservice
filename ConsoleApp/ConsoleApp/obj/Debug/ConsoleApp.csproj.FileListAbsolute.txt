@@ -1,0 +1,6 @@
+c:\users\estevan\documents\visual studio 2013\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\estevan\documents\visual studio 2013\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\estevan\documents\visual studio 2013\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\estevan\documents\visual studio 2013\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\estevan\documents\visual studio 2013\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+c:\users\estevan\documents\visual studio 2013\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
